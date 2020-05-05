@@ -5,3 +5,7 @@ Its exclusive apps like Facetime, iMessages, and Airdrop are really convienent.
 Android is the other major OS for mobile phones.
 There are many different versions of Android, called "skins", like OneUI (samsung phones) or OxygenOS (OnePlus phones). This allows for customization of your android phone. 
 Android is generally not considered as secure as iOS.
+
+Windows is the best OS for PCs in my opinion.
+Its been around for a long time, and most PCs install it as the default OS for their products. Almost all apps are supported through Windows.
+The only downside is very few people use Windows on their phone, which means you rely on third party apps to share information between the your phone and PC.
