@@ -1,3 +1,7 @@
 iOS is an OS exclusively for apple mobile phones. 
 Its really streamlined and clean. 
 Its exclusive apps like Facetime, iMessages, and Airdrop are really convienent.
+
+Android is the other major OS for mobile phones.
+There are many different versions of Android, called "skins", like OneUI (samsung phones) or OxygenOS (OnePlus phones). This allows for customization of your android phone. 
+Android is generally not considered as secure as iOS.
